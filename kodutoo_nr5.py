@@ -1,6 +1,6 @@
 # Asso eesmäe
 # 08.05.23
-# Iseseisev töö 1
+# Iseseisev töö 5
 
 
 # 1.1 Tervitus Koostada programm, mis väljastaks ekraanile teksti Tere, maailm! täpselt sellisel kujul - koma ja hüüumärgiga.
