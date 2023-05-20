@@ -45,3 +45,5 @@ turtle.forward(50)
 turtle.left(90)
 #liigub 50 ühikut
 turtle.forward(50)
+#sulgeb GUI klikkides
+turtle.exitonclick()
